@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --icon=F:\WORK\Python_projects\blend2gltf-converter\blend2gltf.ico F:\WORK\Python_projects\blend2gltf-converter\main.py
